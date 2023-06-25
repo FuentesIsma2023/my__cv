@@ -1,0 +1,12 @@
+.header__name__logo{
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    font-size: 20px;
+}
+.name{
+    margin-left: 1rem;
+}
+.logo{
+
+}
